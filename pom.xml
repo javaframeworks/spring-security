@@ -2,11 +2,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.javaframeworks</groupId>
-	<artifactId>javaframeworks-springsecurity</artifactId>
+	<artifactId>spring-security</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>SpringSecurity Maven Webapp</name>
-	<url>http://maven.apache.org</url>
+	<name>Java Frameworks - Spring Security</name>
+	<url>http://springsecurity.javaframeworks.com.br</url>
 
 	<properties>
 		<spring.version>3.0.5.RELEASE</spring.version>
